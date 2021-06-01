@@ -25,8 +25,8 @@
 ![travis](https://user-images.githubusercontent.com/45006912/108173062-afeda500-710e-11eb-8ee4-ac723cb4f3c4.png)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladdossik&show_icons=true&locale=en&layout=compact" alt="vladdossik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekromant322&show_icons=true&locale=en&layout=compact" alt="nekromant322" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladdossik&show_icons=true&locale=en" alt="vladdossik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekromant322&show_icons=true&locale=en" alt="nekromant322" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladdossik&" alt="vladdossik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekromant322&" alt="nekromant322" /></p>

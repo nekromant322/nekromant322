@@ -42,7 +42,7 @@ Technology stack:
 <h4>Development of omnichannel middleware for money transfers for VTB:</h4>
 
 
-- Segregation the old monolith into microservices
+- Migration from monolithic architecture to microservice architecture
 - Filtering and sorting for client products
 - Orchestration of c2c money transfers
 - Service for scheduled transfers from templates

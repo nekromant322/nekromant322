@@ -12,7 +12,8 @@ Connect with me:
 
 - [telegram](https://t.me/Marandyuk_Anatolii)
 - **shamaneeel881@gmail.com**
-- tbd
+- 
+
 <h2>Right now I work at Alfabank as senior Java/Kotlin developer</h3>
 My contribution allows users to update passport, addresses and other information from mobile application staying home.
 

@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Anatolii Marandyuk</h1>
 <h3 align="center">22 y.o. backend developer from Moscow </h3>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekromant322&show_icons=true&locale=en&layout=compact&hide=css,html" alt="nekromant322" /></p> 
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekromant322&show_icons=true&locale=en&layout=compact&hide=css,html" alt="nekromant322"/>
+</p> 
 
 All of my personal projects are available at [github](https://github.com/nekromant322)  
 
@@ -12,9 +12,10 @@ Connect with me:
 
 - [telegram](https://t.me/Marandyuk_Anatolii)
 - **shamaneeel881@gmail.com**
-- 
-
-<h2>Right now I work at Alfabank as senior Java/Kotlin developer</h3>
+  
+    
+    
+  <h2>Right now I work at Alfabank as senior Java/Kotlin developer</h2>
 My contribution allows users to update passport, addresses and other information from mobile application staying home.
 
 Technology stack:

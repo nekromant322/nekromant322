@@ -18,7 +18,7 @@ Connect with me:
 My contribution allows users to update passport, addresses and other information from mobile application staying home.
 
 Technology stack:
-- Kotlin, Java 11, 
+- Kotlin, Java 11 
 - Spring Cloud
 - MongoDB, Hazelcast
 - JUnit, WireMock

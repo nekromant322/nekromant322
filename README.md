@@ -16,7 +16,13 @@ Connect with me:
 ---
 
   <h2>Right now I work at Alfabank as senior Java/Kotlin developer</h2>
-My contribution allows users to update passport, addresses and other information from mobile application staying home.
+My contribution allows users to update personal information from mobile application staying home.
+
+Development of middleware services for mobile application, features related to personal data update:
+- Passport update (via Smart Engines)
+- Address update (via DaData)
+- Phone number update
+- Embossing name update
 
 Technology stack:
 - Kotlin, Java 11 

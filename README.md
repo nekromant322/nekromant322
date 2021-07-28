@@ -16,7 +16,8 @@ Connect with me:
 ---
 
   <h2>Right now I work at Alfabank as senior Java/Kotlin developer</h2>
-Development of middleware services for mobile application, features related to personal data update:
+  
+Development of middleware services for mobile application, features related to personal data update:  
 - Passport update (via Smart Engines)
 - Address update (via DaData)
 - Phone number update

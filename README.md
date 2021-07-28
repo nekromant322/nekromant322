@@ -29,7 +29,7 @@ Technology stack:
 - Prometheus, Grafana, Kibana
 
 
-<h2>2 years at EPAM as software engineer</h3>
+<h2>1,5 years at EPAM as software engineer</h3>
 <h4>Development of banking software for issuing credit cards for Sberbank:</h4>
 
 - Integration with internal services

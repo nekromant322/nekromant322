@@ -15,7 +15,7 @@ Connect with me:
   
 ---
 
-  <h2>Right now I work at Alfabank as software engineer</h2>
+  <h2>~1 year at Alfabank as software engineer</h2>
   
 Development of middleware services for mobile application, features related to personal data update:  
 - Passport update (via Smart Engines)
@@ -85,5 +85,7 @@ Technology stack:
 - JUnit
 - Maven, Git, Tomcat
 - HTML, CSS, JavaScript
-- Thymeleaf, Jackson
+- Thymeleaf, Jackson  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nekromant322&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

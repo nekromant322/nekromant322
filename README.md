@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekromant322&label=Profile%20views&color=0e75b6&style=flat" alt="nekromant322" /> </p>
 <h1 align="center">Hi, I'm Anatolii Marandyuk</h1>
-<h3 align="center">22 y.o. backend developer from Moscow </h3>
+<h3 align="center">23 y.o. backend developer from Moscow </h3>
 
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekromant322&show_icons=true&locale=en&layout=compact&hide=css,html" alt="nekromant322"/>

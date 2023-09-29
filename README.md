@@ -31,7 +31,7 @@ Technology stack:
 - Nginx
 
 ---
-## <span>1 year at VK as software engineer <span>
+## <span>1 year at VK as software engineer </span>
 <span>Development of infrastructure services for <a href="vk.com">vk.com</a></span>
 
 - Monitoring and alerting system  

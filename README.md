@@ -14,7 +14,7 @@ Connect with me:
 - **shamaneeel881@gmail.com**
 
 ---
-## <span>1 year leading my own project <a href="https://github.com/nekromant322/OverMoney">Overmoney</a></span>
+## <span>1 year leading my own project Overmoney</span>
 
 - Built and mentored Devs&QA in team, fostering a collaborative and results-driven work environment
 - Infrastructure management (VPS, Logs, Metrics, DBs)

@@ -17,9 +17,10 @@ Leading development on my own project
 - Description and decomposition of technical tasks for devs
 - Backlog management
 - Architectural solutions
+- Migration to Yandex Cloud
 #### Technology stack:
-- Java 11
-- Spring Cloud
+- Java 11, Spring
+- k8s
 - PostgreSQL
 - Maven
 - Prometheus, Grafana, Kibana

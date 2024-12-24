@@ -13,12 +13,12 @@ Leading development on my own project
 
 ## 2 years at [OverMoney](https://github.com/nekromant322/OverMoney) as Lead
 - Built and mentored Devs&QA in team, fostering a collaborative and results-driven work environment
-- Infrastructure management (VPS, Logs, Metrics, DBs)
+- Infrastructure management (VPS, Logs, Metrics, DBs, Cloud)
 - Description and decomposition of technical tasks for devs
 - Backlog management
 - Architectural solutions
 - Migration to Yandex Cloud
-- 
+  
 #### Technology stack:
 - Java 11, Spring
 - Docker, K8s, Yandex Cloud
@@ -30,7 +30,7 @@ Development of infrastructure services for [vk.com](vk.com):
 - Monitoring and alerting system  
 - Code owners tools for huge monorepo  
 - ColdStart admin panel (load management on site sections in case of crashes of key engines)
-- 
+  
 #### Technology stack:
 - PHP, kPHP
 - RPC
@@ -43,7 +43,7 @@ Development of middleware services for mobile application, features related to p
 - Address update (via DaData)
 - Phone number update
 - Embossing name update
-- 
+  
 #### Technology stack:
 - Kotlin, Java 11 
 - Spring Cloud
@@ -66,7 +66,7 @@ Development of omnichannel middleware for mobile bank transfers for [VTB](https:
 - Complex filtering and sorting of client products for main mobile bank screen
 - Orchestration of c2c money transfers
 - Service for scheduled transfers from templates
-- 
+  
 #### Technology stack:
 - Java 8, Kotlin
 - Spring (Boot, Security, WebFlux, Data, Actuator)
